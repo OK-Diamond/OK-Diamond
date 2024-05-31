@@ -1,6 +1,6 @@
 Studying Computer Science at the University of Nottingham.
 
-Doing worldbuilding-based programming in @Land-of-Zemia 
+Doing worldbuilding-based programming in [@Land-of-Zemia](https://github.com/Land-of-Zemia) 
 
 <!--
 **OK-Diamond/OK-Diamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
